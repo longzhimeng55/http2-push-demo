@@ -1,0 +1,21 @@
+{
+  "name": "http2-test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "fs": "0.0.1-security",
+    "http2": "^3.3.7",
+    "mime": "^2.4.5"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
